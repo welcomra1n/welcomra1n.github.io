@@ -32,8 +32,7 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 Here is a table
 
 Year | Client | Description
------|-------|--------
-
+-----|--------|-------------
 2017 | KBS | KBS Music Bank, general manager of graphic design for overseas performances in Jakarta, Singapore
 
 Here is a horizontal rule
