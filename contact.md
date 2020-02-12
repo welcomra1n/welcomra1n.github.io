@@ -9,16 +9,6 @@ is_contact: true
 
 ---
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
 ## Social
 
 1. [Personal Instagram](https://www.instagram.com/welcomra1n)
