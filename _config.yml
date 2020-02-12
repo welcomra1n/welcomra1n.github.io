@@ -13,7 +13,7 @@ footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
-    sass_dir: /welcomra1n.github.io/_sass
+    sass_dir: /welcomra1n.github.io/_sass/
 
 nav:
  - name: "About"
