@@ -21,6 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Personal Instagram](https://www.instagram.com/welcomra1n)
+2. [illustration Instagram](https://www.instagram.com/lee_nerd)
