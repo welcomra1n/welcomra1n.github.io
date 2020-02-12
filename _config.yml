@@ -1,6 +1,6 @@
 title: Designerd
 url: "https://designerd.site"
-baseurl: "https://designerd.site"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
