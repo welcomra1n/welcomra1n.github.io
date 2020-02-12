@@ -4,11 +4,11 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi, I am Kyuchae Lee, CEO of Design Nerd in Korea.
+I'm always keen to be at the forefront of design trends.
+I aim for a long and happy honeymoon while designing that I love.
 
 ## Research Interest
 

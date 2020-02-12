@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [welcom2rain@gmail.com](mailto:welcom2rain@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [01052132711](tel:+821052132711)
 
 ---
 
