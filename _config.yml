@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://designerd.site"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Copyright 2020 © Designerd </ br>Page design by Ankit Sultana"
 
 sass:
     style: compressed

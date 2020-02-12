@@ -32,18 +32,12 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 Here is a table
 
 Year | Client | Description
------|--------|-------------
 2017 | KBS | KBS Music Bank, general manager of graphic design for overseas performances in Jakarta, Singapore
 
-Here is a horizontal rule
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
+<!-- > To a great mind, nothing is little
 
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
